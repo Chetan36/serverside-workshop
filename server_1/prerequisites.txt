@@ -1,0 +1,6 @@
+1. NodeJS
+2. Basics of HTTP concepts
+3. Different types of Content Types in HTTP headers
+4. IP address and Port numbers
+5. Creating http server in NodeJS
+6. Concept of URL
