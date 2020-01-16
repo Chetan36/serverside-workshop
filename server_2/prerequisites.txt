@@ -1,0 +1,27 @@
+1. Creating NodeJS Server using npm
+2. Understanding package.json
+3. Traditional vs Express
+4. Installing npm package - express
+5. Starting an express server
+
+Commands to follow -
+
+1. npm init - Fill in the required details that comes up.
+
+2. Once done, look for the package.json file that gets created and keep it open in a tab.
+
+3. Create a file 'index.js' and create an http server as previous assignment.
+
+4. npm i --save express (Look for the dependencies in package.json and make sure express is installed).
+
+5. Follow the codebase from app.js and create an express app for your http server.
+
+6. node index.js
+
+7. Create your own script in package.json, for example "start".
+
+8. npm run start
+
+9. 'req', 'res' and 'next' arguments
+
+10. Testing API in Postman
